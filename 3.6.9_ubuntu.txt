@@ -95,7 +95,7 @@ sqlparse==0.4.1
 tb-nightly==2.4.0a20201102
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==1.15.0
+tensorflow==1.15.4
 tensorflow-estimator==2.3.0
 termcolor==1.1.0
 testresources==2.0.1
