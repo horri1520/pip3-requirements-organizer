@@ -1,5 +1,5 @@
 absl-py==0.10.0
-asgiref==3.3.0
+asgiref==3.2.10
 asn1crypto==1.4.0
 astor==0.8.1
 astroid==2.4.2
@@ -15,12 +15,11 @@ cryptography==3.1.1
 cycler==0.10.0
 defer==1.0.4
 distro==1.5.0
-distro-info==0.0.0
 Django==3.1.2
 django-cors-headers==3.5.0
 django-crontab==0.7.1
 docutils==0.16
-gast==0.4.0
+gast==0.3.3
 google-auth==1.22.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
@@ -41,7 +40,7 @@ kiwisolver==1.2.0
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.3
 lazr.uri==1.0.5
-lazy-object-proxy==1.5.1
+lazy-object-proxy==1.4.3
 louis==1.3
 macaroonbakery==1.3.1
 Mako==1.1.3
@@ -50,7 +49,7 @@ MarkupSafe==1.1.1
 matplotlib==3.3.2
 mccabe==0.6.1
 netifaces==0.10.9
-numpy==1.19.2
+numpy==1.18.5
 oauth==1.0.1
 oauthlib==3.1.0
 olefile==0.46
